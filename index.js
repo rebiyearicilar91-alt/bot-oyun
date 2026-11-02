@@ -1,7 +1,9 @@
 const {
     Client,
     GatewayIntentBits,
-    SlashCommandBuilder
+    SlashCommandBuilder,
+    REST,
+    Routes
 } = require('discord.js');
 
 const http = require('http');

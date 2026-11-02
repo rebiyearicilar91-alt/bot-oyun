@@ -1,0 +1,17 @@
+{
+  "name": "tma-oyun-botu",
+  "version": "1.0.0",
+  "description": "TMA Eğlence ve Oyun Botu",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.0",
+    "discord-gamecord": "^4.3.3"
+  }
+}
